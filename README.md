@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://youtu.be/yconFGwl3Rw">
-    <img src="https://img.shields.io/badge/▶_Watch_Full_Presentation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/▶_Watch_Full_Presentation-0000FF?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
